@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>model/cascade.xml</file>
+        <file>model/cascade_copy.xml</file>
+        <file>model/CharacterRecognization.caffemodel</file>
+        <file>model/CharacterRecognization.prototxt</file>
+        <file>model/HorizonalFinemapping.caffemodel</file>
+        <file>model/HorizonalFinemapping.prototxt</file>
+        <file>model/SegmenationFree-Inception.caffemodel</file>
+        <file>model/SegmenationFree-Inception.prototxt</file>
+        <file>model/Segmentation.caffemodel</file>
+        <file>model/Segmentation.prototxt</file>
+    </qresource>
+</RCC>
